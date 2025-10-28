@@ -5,7 +5,7 @@ const programs = [
 	'REDES DE DATOS',
 	'ANIMACIÓN 3D',
 	'LOGÍSTICA',
-	'MERCADERISMO',
+	'MERCADEO',
 	'SISTEMAS',
 ];
 
